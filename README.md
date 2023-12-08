@@ -16,4 +16,7 @@
 2023/12/08 14:19
 
 06 Setting Up Your Database.
-2023/12/08
+2023/12/08 15:18
+
+07 Fetching Data 
+2023/12/08 
