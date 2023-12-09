@@ -20,3 +20,14 @@
 
 07 Fetching Data 
 2023/12/08 
+
+08 Static and Dynamic Rendering
+2023/12/09
+
+09 Streaming
+2023/12/09 13:00
+
+10 Partial Prerendering 
+2023/12/09 13:10
+
+11 Adding Search and Pagination
